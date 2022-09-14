@@ -1,5 +1,4 @@
-```js
-json-server --watch db.json
-```
+#CRUD clientes
 
-Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
+
+CRUD realizado en JS utilizando funciones asíncronas y JSON server.
