@@ -2,18 +2,8 @@
   "perfil": [
     {
       "nombre": "Enzo",
-      "email": "enzolopez1610@gmail.com",
+      "email": "ejemplo@gmail.com",
       "id": "0adc56e8-2e00-46c7-993a-82a6e02f4352"
-    },
-    {
-      "nombre": "Juan",
-      "email": "juansitonashe@gmail.com",
-      "id": "307bb2f0-c5e2-4884-b34f-e866b144349a"
-    },
-    {
-      "nombre": "Hernesto",
-      "email": "hernesto@gmail.com",
-      "id": "da629581-7c08-464a-ba51-fedff24dafd0"
     }
   ]
 }
